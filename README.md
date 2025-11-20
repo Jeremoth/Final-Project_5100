@@ -7,6 +7,7 @@ This project examines the evolution of musical emotion in the United States usin
 
 ### 📁 Dataset
 #### 1. Spotify Kaggle Dataset (2017–2020)
+https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years/data
 
 Filtered to USA only. Includes:
 
