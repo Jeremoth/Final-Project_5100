@@ -1,0 +1,16 @@
+# Ignore entire data folder
+data/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
