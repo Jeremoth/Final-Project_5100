@@ -7,7 +7,8 @@ This project examines the evolution of musical emotion in the United States usin
 
 ## 📁 Dataset
 ### 1. Spotify Huggingface Dataset (2017–2020)
-[https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years/data](https://huggingface.co/datasets/osanseviero/top-hits-spotify)
+https://huggingface.co/datasets/osanseviero/top-hits-spotify
+https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset
 
 Filtered to USA only. Includes:
 
