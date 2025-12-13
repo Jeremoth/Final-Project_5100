@@ -6,8 +6,9 @@ This project analyzes how the emotional characteristics of popular music in the 
 This project examines the evolution of musical emotion in the United States using Spotify Top 200 chart data from 2017–2020 and combines it with annual unemployment statistics from the Federal Reserve (FRED). We focus on emotional audio features—particularly valence and energy—as well as lyrics-based sentiment indicators. Through exploratory data analysis, statistical inference, and ARIMA modeling, we evaluate whether changes in national economic conditions correspond to shifts in the emotional tone of mainstream music.
 
 ## 📁 Dataset
-### 1. Spotify Kaggle Dataset (2017–2020)
-https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years/data
+### 1. Spotify Huggingface Dataset (2017–2020)
+https://huggingface.co/datasets/osanseviero/top-hits-spotify
+https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset
 
 Filtered to USA only. Includes:
 
